@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist | AI/ML | Formula 1
 ----------------------------------
 
-A B.Tech Data Science student at NMIMS with a keen interest in General AI and its applications in finance. 🤖💹 
-🔍 I thrive on exploring the depths of machine learning and AI to tackle complex problems, especially those intersecting with economic and financial systems. 
+A B.Tech Data Science student at NMIMS with a keen interest in General AI and its applications in finance.💹 I thrive on exploring the depths of machine learning and AI to tackle complex problems, especially those intersecting with economic and financial systems. 
 📈 Outside the classroom, I've honed my skills through internships as a Data Scientist and Market Research Analyst, where I improved operational efficiencies and crafted market entry strategies.
 
 *   🌍  I'm based in Mumbai
