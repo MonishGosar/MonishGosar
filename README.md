@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Monish Gosar
 ====================================================================================================================================
 
-Data Scientist | AI/ML | Formula 1
+Data Scientist | AI/ML 
 ----------------------------------
 
 A B.Tech Data Science student at NMIMS with a keen interest in General AI and its applications in finance.💹 I thrive on exploring the depths of machine learning and AI to tackle complex problems, especially those intersecting with economic and financial systems. 
