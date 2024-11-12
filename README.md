@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist | AI/ML 
 ----------------------------------
 
-* 🧑‍🎓 Third-year BTech student majoring in Data Science with a focus on Artificial Intelligence and Machine Learning.
+* 🧑‍🎓 Final-Year BTech student majoring in Data Science with a focus on Artificial Intelligence and Machine Learning.
 
 * 🧑‍💻  Determined to build a successful career in AI and Deep Learning, either through further education or through joining a leading organization.
 
