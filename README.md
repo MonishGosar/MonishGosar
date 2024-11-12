@@ -27,10 +27,10 @@ Data Scientist | AI/ML
 
 ## Top Repositories
 
-
 [![Online-Proctor-Exam-System-Computer-Vision-](https://github-readme-stats.vercel.app/api/pin/?username=MonishGosar&repo=Online-Proctor-Exam-System-Computer-Vision-)](https://github.com/MonishGosar/Online-Proctor-Exam-System-Computer-Vision-)
 
+[![Contractify - AI Powered Contract Analysis System](https://github-readme-stats.vercel.app/api/pin/?username=MonishGosar&repo=Contractify-AI-Powered-Contract-Analysis-System-)](https://github.com/MonishGosar/Contractify-AI-Powered-Contract-Analysis-System-)
 
-[![Contractify-RAG based Contract Summarizer & QA Bot.](https://github.com/MonishGosar/Contractify-AI-Powered-Contract-Analysis-System-)
+[![Walmart Shopping Assistant](https://github-readme-stats.vercel.app/api/pin/?username=MonishGosar&repo=Walmart-Shopping-Assistant)](https://github.com/MonishGosar/Walmart-Shopping-Assistant)
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
