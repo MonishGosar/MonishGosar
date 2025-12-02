@@ -2,15 +2,20 @@
 
 <!-- Typing Animation -->
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=3000&pause=1200&color=1A73E8&width=600&lines=Data+Scientist+%7C+AI+Engineer+%7C+Tech+PM;I+build+AI+systems%2C+agents%2C+and+ML+pipelines;Rapid+AI+MVP+Builder+%7C+End-to-End+Execution" />
-</p>
+<h2 align="left">
+  Data Scientist · AI Engineer · Tech Product Manager  
+  <br>
+  I build AI systems, agents, and ML pipelines  
+  <br>
+  Rapid AI MVP Builder · End-to-End Execution
+</h2>
+
 
 ---
 
 ## 🚀 About Me
 
-I build practical, high-impact AI systems — from rapid MVPs to production-grade analytics pipelines.
+I build practical, high-impact AI systems from rapid MVPs to production-grade analytics pipelines.
 My work spans **RAG systems, multi-agent systems, financial risk modeling, and backend AI workflows**.
 
 ---
@@ -79,6 +84,6 @@ My work spans **RAG systems, multi-agent systems, financial risk modeling, and b
 
 ## 🧠 Fun Fact
 
-I love building AI systems that **solve real business problems** — especially in finance, risk, and operational productivity.
+I love building AI systems that **solve real business problems** especially in finance, risk, and operational productivity.
 
 
