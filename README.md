@@ -2,14 +2,9 @@
 
 <!-- Typing Animation -->
 
-<h2 align="left">
-  Data Scientist · AI Engineer · Tech Product Manager  
-  <br>
-  I build AI systems, agents, and ML pipelines  
-  <br>
-  Rapid AI MVP Builder · End-to-End Execution
-</h2>
+<h3 align="left">Data Scientist · AI Engineer · Tech Product Manager</h3>
 
+<p align="left">I build AI systems, agents, ML pipelines, and rapid AI MVPs.</p>
 
 ---
 
