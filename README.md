@@ -1,36 +1,84 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Monish Gosar
-====================================================================================================================================
+# 👋 Hi, I'm **Monish Gosar**
 
-Data Scientist | AI/ML 
-----------------------------------
+<!-- Typing Animation -->
 
-* 🧑‍🎓 Final-Year BTech student majoring in Data Science with a focus on Artificial Intelligence and Machine Learning.
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=3000&pause=1200&color=1A73E8&width=600&lines=Data+Scientist+%7C+AI+Engineer+%7C+Tech+PM;I+build+AI+systems%2C+agents%2C+and+ML+pipelines;Rapid+AI+MVP+Builder+%7C+End-to-End+Execution" />
+</p>
 
-* 🧑‍💻  Determined to build a successful career in AI and Deep Learning, either through further education or through joining a leading organization.
+---
 
-* 🔎 Eager to learn and grow in this exciting and rapidly evolving field.
+## 🚀 About Me
 
-* ✉️  You can contact me at [monish.emailbox@gmail.com](mailto:monish.emailbox@gmail.com)
+I build practical, high-impact AI systems — from rapid MVPs to production-grade analytics pipelines.
+My work spans **RAG systems, multi-agent systems, financial risk modeling, and backend AI workflows**.
 
-### Connect with Me:
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MonishGosar)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/monish-gosar/)
+---
+
+## 🔥 What I Do
+
+* **AI/ML Engineering** – RAG, embeddings, search, LLM apps, agents
+* **Data Science** – forecasting, credit risk, anomaly detection
+* **Product & Systems Design** – end-to-end AI product thinking
+* **Rapid Prototyping** – shipping AI MVPs in **days, not months**
+
+📌 Currently building: multi-agent systems, risk engines, financial forecasting, backend AI developer tools.
+
+---
+
+## 📬 Connect With Me
+
+<p align="left">
+  <a href="mailto:monish.emailbox@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/monish-gosar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/MonishGosar"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+## 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,postgres,azure,docker,git,linux&theme=light" />
+</p>
+
+---
+
+## ✨ Animated Stats (clean & minimal)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MonishGosar&show_icons=true&theme=default&hide_title=true&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonishGosar&theme=default&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MonishGosar&bg_color=ffffff&color=1A73E8&line=1A73E8&point=1A73E8&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### **1. Contractify – AI Contract QA Bot (RAG + Agents)**
+
+[![Contractify](https://github-readme-stats.vercel.app/api/pin/?username=MonishGosar\&repo=Contractify-AI-Powered-Contract-Analysis-System-\&theme=default)](https://github.com/MonishGosar/Contractify-AI-Powered-Contract-Analysis-System-)
+
+---
+
+### **2. Audio Classification – Industrial Steel Defect Detection**
+
+[![Audio Classification](https://github-readme-stats.vercel.app/api/pin/?username=MonishGosar\&repo=online_proctoring_system\&theme=default)](https://github.com/MonishGosar/online_proctoring_system)
+
+---
+
+### **3. Walmart AI Shopping Assistant**
+
+[![Walmart Assistant](https://github-readme-stats.vercel.app/api/pin/?username=MonishGosar\&repo=Walmart-Shopping-Assistant\&theme=default)](https://github.com/MonishGosar/Walmart-Shopping-Assistant)
+
+---
+
+## 🧠 Fun Fact
+
+I love building AI systems that **solve real business problems** — especially in finance, risk, and operational productivity.
 
 
-## Technologies and Frameworks
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-## Top Repositories
-
-[![Online-Proctor-Exam-System-Computer-Vision-](https://github-readme-stats.vercel.app/api/pin/?username=MonishGosar&repo=Online-Proctor-Exam-System-Computer-Vision-)](https://github.com/MonishGosar/Online-Proctor-Exam-System-Computer-Vision-)
-
-[![Contractify - AI Powered Contract Analysis System](https://github-readme-stats.vercel.app/api/pin/?username=MonishGosar&repo=Contractify-AI-Powered-Contract-Analysis-System-)](https://github.com/MonishGosar/Contractify-AI-Powered-Contract-Analysis-System-)
-
-[![Walmart Shopping Assistant](https://github-readme-stats.vercel.app/api/pin/?username=MonishGosar&repo=Walmart-Shopping-Assistant)](https://github.com/MonishGosar/Walmart-Shopping-Assistant)
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
