@@ -1,5 +1,3 @@
----
-
 # 👋 Hi, I'm **Monish Gosar**
 
 <h3 align="left">Data Scientist · AI Engineer · Tech Product Manager</h3>
