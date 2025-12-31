@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Monish Gosar**
 
-<h3 align="left">Data Scientist · AI Engineer · Tech Product Manager</h3>
+<h3 align="left">Data Scientist · AI Product Engineer</h3>
 <p align="left">I build AI systems, agents, ML pipelines, and rapid AI MVPs end-to-end.</p>
 
 ---
