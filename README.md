@@ -1,5 +1,3 @@
-# Monish Gosar
-
 **AI Product Engineer · Data Scientist**
 
 I am Monish Gosar, a 23 year old, building production ready AI first products for Banks & NBFCs.
